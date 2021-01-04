@@ -1,5 +1,7 @@
 from load_data import load_sensor_data
 
+data =[]
+
 # Runner script for all modules
 
 
